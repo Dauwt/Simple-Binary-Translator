@@ -15,4 +15,6 @@ If you use or distribute this project, you agree to comply with the terms of the
 
 Please refer to the [LICENSE](./LICENSE) file for more information on your rights and obligations under the terms of the MIT License.
 
-### **Made by Dauwt©**
+### **Made by Dauwt**
+
+### Copyright (c) 2024 Dauwt
